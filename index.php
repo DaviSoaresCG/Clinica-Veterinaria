@@ -28,7 +28,7 @@ require_once('config.php');
 <body>
     <form id="area-busca" action="index.php" method="get">
             <input type="text" name='valorBusca' placeholder="Informe nome do animal">
-            <button>Buscar por nome</button>
+            <button>Buscar</button>
     </form>
     
 
