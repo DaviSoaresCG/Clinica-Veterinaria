@@ -1,0 +1,11 @@
+Estou fazendo um mini projeto sobre uma clínica veterinária. Link do vídeo: https://www.youtube.com/watch?v=w7p2UI7K8m0
+
+Objetivos: Registrar o prontuário dos animais atendidos na clínica, armazenando quando e qual o tratamento de cada animal recebeu, mantendo todo o histórico. Algumas observações sobre o tratamento podem ser feitas. O sistema deve permitir consultas dos animais e seus prontuários. 
+
+Observações: enquanto eu estava pensando no modelo de banco de dados, achei pernitente ter uma tabela de dono relacionada ao cachorro. Porém, no vídeo não tem. Talvez eu acrescente depois. 
+Comecei em 23/12/2024
+
+hoje é dia 26/12/2024. Terminei o vídeo e, de onde ele parou, comecei a fazer o desafio proposto. Estou quase acabando a pagina de atendimento, falta apenas fazer funcionar o registro de atendimento. Estou gostando. Estou dedicando mais ou menos 1h por dia para o projeto. O resto, jogando no overwatch. Espero um dia sair do ouro...
+Talvez eu faça um video explicando como eu fiz a pagina de atendimento.
+
+Hoje é dia 28/12/2024. Terminei a parte de registrar o atendimento. Teoricamente, terminei o desafio, mas não estou satisfeito ainda, quero colocar algumas funcionalidades, como filtro no historico. Também estou pensando futuramente em colocar autenticação de usuários para os funcionários, assim, cada funcionario iria logar e ficar registrado o atendimento para o funcionario logado.
